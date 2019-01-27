@@ -1,0 +1,19 @@
+{
+  "name": "spotify-gdpr",
+  "version": "1.0.0",
+  "description": "Analytics for Spotify GDPR requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-posteriori/spotify-gdpr.git"
+  },
+  "author": "ctp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-posteriori/spotify-gdpr/issues"
+  },
+  "homepage": "https://github.com/a-posteriori/spotify-gdpr#readme"
+}
